@@ -44,7 +44,7 @@ PLUGINS_REGISTRY = {
         'type': 'test'
     },
     'octario': {
-        'src': 'https://github.com/redhat-openstack/octario.git',
+        'src': 'https://github.com/sileht/octario.git',
         'desc': 'Octario test runner',
         'type': 'test'
     },
